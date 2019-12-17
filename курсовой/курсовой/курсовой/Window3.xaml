@@ -1,0 +1,35 @@
+﻿<Window x:Class="курсовой.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:курсовой"
+        mc:Ignorable="d"
+        Title="Window3" Height="450" Width="800" FontSize="16">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*">
+                
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+           
+
+           
+            <Label Content="Имя" Name="Label1"></Label>
+            <TextBox Name="TextBox1"></TextBox>
+            <Label Content="Фамилия" Name="Label2"></Label>
+            <TextBox Name="TextBox2"></TextBox>
+            <Label Content="Логин" Name="Label3"></Label>
+            <TextBox Name="TextBox3"></TextBox>
+            <Label Content="Пароль" Name="Label4"></Label>
+            <PasswordBox Name="PasswordBox1"></PasswordBox>
+            <Label Content="Подтверждение пароля" Name="Label5"></Label>
+            <PasswordBox Name="PasswordBox2"></PasswordBox>
+            
+            <Button Content="Зарегистрироваться" Name ="Button1" Click="Button1_Click"></Button>
+            <Button Content="Отменить" Name ="Button2"></Button>
+         
+        </StackPanel>
+    </Grid>
+</Window>
