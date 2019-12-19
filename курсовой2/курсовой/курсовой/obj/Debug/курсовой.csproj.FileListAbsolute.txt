@@ -1,0 +1,98 @@
+C:\Users\User\Desktop\курсовой\курсовой\bin\Debug\курсовой.exe.config
+C:\Users\User\Desktop\курсовой\курсовой\bin\Debug\курсовой.exe
+C:\Users\User\Desktop\курсовой\курсовой\bin\Debug\курсовой.pdb
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.csprojAssemblyReference.cache
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\App.g.cs
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.cache
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.lref
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.g.resources
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.Properties.Resources.resources
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.csproj.GenerateResource.cache
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.exe
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\курсовой.pdb
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\курсовой\курсовой\obj\Debug\Window1.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\App.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.lref
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.exe
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\bin\Debug\курсовой.exe.config
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\bin\Debug\курсовой.exe
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\bin\Debug\курсовой.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\Window1.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.g.resources
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.csproj.GenerateResource.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовойй проект\курсовой\курсовой\obj\Debug\курсовой.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\курсовой.exe.config
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\курсовой.exe
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\курсовой.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.csprojAssemblyReference.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window1.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\App.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.lref
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window1.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.g.resources
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.csproj.GenerateResource.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.exe
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window2.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window2.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window3.g.cs
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\BLL.dll
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\DAL.dll
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\BLL.dll.config
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\bin\Debug\DAL.dll.config
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\Window3.baml
+C:\Users\User\Desktop\3 курс\Фомина\курсовой проект\курсовой\курсовой\obj\Debug\курсовой.csproj.CopyComplete
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\курсовой.exe.config
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\курсовой.exe
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\курсовой.pdb
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\BLL.dll
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\EntityFramework.dll
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\EntityFramework.SqlServer.dll
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\DAL.dll
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\BLL.pdb
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\BLL.dll.config
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\EntityFramework.xml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\EntityFramework.SqlServer.xml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\DAL.pdb
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\bin\Debug\DAL.dll.config
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.csprojAssemblyReference.cache
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\MainWindow.g.cs
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window1.g.cs
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window2.g.cs
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window3.g.cs
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\App.g.cs
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.cache
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой_MarkupCompile.lref
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\MainWindow.baml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window1.baml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window2.baml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\Window3.baml
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.g.resources
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.Properties.Resources.resources
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.csproj.GenerateResource.cache
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.csproj.CoreCompileInputs.cache
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.csproj.CopyComplete
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.exe
+E:\Репозитории\Repetitor\курсовой2\курсовой\курсовой\obj\Debug\курсовой.pdb
