@@ -1,0 +1,11 @@
+USE [HM]
+GO
+/****** Object:  StoredProcedure [dbo].[INCOMESELECT]    Script Date: 19.12.2019 17:59:58 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER procedure [dbo].[INCOMESELECT]
+@date1 datetime, @date2 datetime,  @id_user int
+as 
+select * FROM INCOME inner join INCOME_GUIDE on INCOME.income_guide_FK=INCOME_GUIDE.income_guide_code_ID where income_date>@date1 and income_date<=@date2 and INCOME.income_user_FK=@id_user

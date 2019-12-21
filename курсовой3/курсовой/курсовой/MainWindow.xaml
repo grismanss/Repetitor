@@ -1,0 +1,45 @@
+﻿<Window x:Class="курсовой.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:курсовой"
+        mc:Ignorable="d"
+        Title="Кошелек" Height="425.5" Width="573.167" FontSize="16" Background="Gold" 
+        ResizeMode="CanResizeWithGrip">
+    <Window.Resources>
+        <Style x:Key="StyleButton" TargetType="Button">
+            <Setter Property="Margin" Value="0 10 0 10"></Setter>
+            <Setter Property="TextElement.FontFamily" Value="Calibri"></Setter>
+            <Setter Property="TextElement.FontSize" Value="16"></Setter>
+            <Setter Property="MinWidth" Value="200"></Setter>
+            <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+            <Setter Property="Background" Value="Red"></Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,0,-5,0" SizeChanged="Grid_SizeChanged">
+        <Grid.Background>
+            <ImageBrush ImageSource="Resourses/1.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition>
+                
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label>Логин</Label>
+            <TextBox  Name="TextBox1"/>
+            <Label>Пароль</Label>
+            <PasswordBox Name="PasswordBox1"/>
+
+            <Button Style="{StaticResource StyleButton}" Click="Button_Click_2">
+                Войти
+            </Button>
+            <Button Style="{StaticResource StyleButton}" Click="Button_Click_3">
+                Регистрация
+            </Button>
+
+            
+        </StackPanel>
+  </Grid>
+</Window>

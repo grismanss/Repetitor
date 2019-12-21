@@ -1,0 +1,11 @@
+USE [HM]
+GO
+/****** Object:  StoredProcedure [dbo].[EXPENSESELECT]    Script Date: 19.12.2019 17:59:24 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER procedure [dbo].[EXPENSESELECT]
+@date1 datetime, @date2 datetime,  @id_user int
+as 
+select * FROM EXPENSE inner join EXPENSE_GUIDE on EXPENSE.expense_guide_FK=EXPENSE_GUIDE.expense_guide_code_ID where expense_date>@date1 and expense_date<=@date2 and EXPENSE.expense_user_FK=@id_user

@@ -1,0 +1,52 @@
+﻿<Window x:Class="курсовой.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:курсовой"
+        mc:Ignorable="d"
+        Title="Доходы" Height="600" Width="800" FontSize="16">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*">
+              
+            </ColumnDefinition>
+            <ColumnDefinition Width="3*">
+
+            </ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0" Margin="10 10 10 10" VerticalAlignment="Center">
+            
+            <Button Content="Доходы" Name="Button2" Margin="0 10 0 10" Click="Button_Click_2"/>
+            <Button Content="Расходы" Name="Button1" Margin="0 10 0 10" Click="Button_Click_1"/>
+
+            <Button Content="Статистика" Name="Button3" Margin="0 10 0 10" Command="{Binding myRelay}" CommandParameter="{Binding ElementName=Label2,Path=Content}"/>
+            <Label Content="Источники дохода" Name="Label1" ></Label>
+            <ComboBox ItemsSource="{Binding Path=ExpenseGuide}" DisplayMemberPath="expense_type" Name="ComboBox1" Margin="0 10 0 10" SelectionChanged="ComboBox1_SelectionChanged" SelectedItem="{Binding A}"></ComboBox>
+            
+            <Label Content="Размер" Name="Label2" ></Label>
+
+            <TextBox Name="TextBox1" Text="{Binding _text}" Margin="0 10 0 10"/>
+            <Label Name="Label3" Content="Дата"></Label>
+            <DatePicker Name="DatePicker1" Margin="0 10 0 10" SelectedDate="{Binding Date}"></DatePicker>
+            <Button Content="Добавить"  Margin="0 10 0 10" Command="{Binding myRelay}"/>
+            <Button Content="Редактировать мой профиль" Margin="0 100 0 10"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Margin="10 10 10 10" VerticalAlignment="Center">
+            <DataGrid Height="273" Name="DataGrid1" AutoGenerateColumns="False" ItemsSource="{Binding order2}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding income_type}" Header="MyHeader" />
+                </DataGrid.Columns>
+            </DataGrid>
+            <Label Content="Начало периода"/>
+
+            <DatePicker Name="DatePicker2" SelectedDate="{Binding Date1}"/>
+            <Label Content="Конец периода" />
+            <DatePicker Name="DatePicker3" SelectedDate="{Binding Date2}"/>
+            <Button Content="Сформировать отчет" Margin="0 10 0 10" Click="Button_Click_3" />
+            <Button Content="Печать" Margin="0 10 0 10" />
+        </StackPanel>
+
+
+    </Grid>
+</Window>
